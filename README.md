@@ -3,11 +3,11 @@
 <h3 align="center">A Lebanese Master Student at Politecnico di Torino, in Artificial Intelligence and data analytics.</h3>
 <img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
-- 🌱 I’m currently learning **fundamental and advanced literatures in Artificial Intelligence.**
+- 🌱 I’m currently learning: **fundamental and advanced literatures in Artificial Intelligence.**
 
-- 📫 How to reach me **peteralhachem@hotmail.com**
+- 📫 How to reach me: **peteralhachem@hotmail.com**
 
-- ⚡ Fun fact **Although I have the same name as Spider-Man, I am better than him with webs!**
+- ⚡ Fun fact: **Although I have the same name as Spider-Man, I am better than him with webs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
