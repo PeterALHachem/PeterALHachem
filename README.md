@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hello There 👋, I'm Peter!</h1>
-<h3 align="center">A Lebanese Master Student at Politecnico di Torino, in Artificial Intelligence and data analytics.</h3>
+<h3 align="center">Master student at Politecnico di Torino in Artificial Intelligence and data analytics.</h3>
 <img align="right" alt="profile" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 - 🌱 I’m currently learning: **fundamental and advanced literatures in Artificial Intelligence.**
 
-- 📫 How to reach me: **peteralhachem@hotmail.com**
+- 📫 How to reach me:  <a href="mailto:peteralhachem@hotmail.com?subject=Hello%20Peter!"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 - ⚡ Fun fact: **Although I have the same name as Spider-Man 🕷️, I am better than him with webs!** 🕸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/peter-alhachem-02521b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter alhachem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peter-alhachem-02521b254/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="peter alhachem"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
