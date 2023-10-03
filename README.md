@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:  <a href="mailto:peteralhachem@hotmail.com?subject=Hello%20Peter!"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
-- ⚡ Fun fact: **Although I have the same name as Spider-Man 🕷️, I am better than him with webs!** 🕸️
+- ⚡ Fun fact: **Although I have the same name as Spider-Man 🕷️,  I am better than him with webs!** 🕸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
