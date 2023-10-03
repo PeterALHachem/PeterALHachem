@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **peteralhachem@hotmail.com**
 
-- ⚡ Fun fact: **Although I have the same name as Spider-Man, I am better than him with webs!**
+- ⚡ Fun fact: **Although I have the same name as Spider-Man 🕷️, I am better than him with webs!** 🕸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
